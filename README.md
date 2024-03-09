@@ -7,8 +7,13 @@ It is designed to calculate the user's investment and bond repayment rate.
 
 ## Installation and Usage 
 
-To install the file *finance_calculators.py*, first ensure that you have Python downloaded on your device. Then click 
-To use the file, open the file on your device in Python, then press *F5*
+To install the file *finance_calculators.py*:
+1. Ensure that you have Python downloaded on your device. 
+2. Click the download button on the top right section of the file. 
+
+To use the file *finance_calculators.py*: 
+1. Open the file on your device in Python
+2. Press *F5* on your  
 
 ## Credits 
 https://www.hyperiondev.com/
